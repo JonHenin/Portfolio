@@ -26,3 +26,5 @@ Identify Controversial Reddit Comments
 
 9. [10-year-old-car-analysis0](https://github.com/JonHenin/10-Year-Old-Car-Analysis)
 Analyzing Car Safety Over the Last 10 Years
+
+10. Image Detection (Coming Soon)
