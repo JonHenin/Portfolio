@@ -24,7 +24,7 @@ Wine Quality Prediction
 8. [controversial-comments-report-pipeline](https://github.com/JonHenin/Controversial-Comments-Report-Pipeline)
 Identify Controversial Reddit Comments
 
-9. [10-year-old-car-analysis0](https://github.com/JonHenin/10-Year-Old-Car-Analysis)
+9. [10-year-old-car-analysis](https://github.com/JonHenin/10-Year-Old-Car-Analysis)
 Analyzing Car Safety Over the Last 10 Years
 
 10. [Pokedex](https://github.com/JonHenin/Pokedex)
